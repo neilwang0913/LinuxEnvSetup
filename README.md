@@ -1,7 +1,7 @@
 # LinuxEnvSetup
 Conda to setup LinuxEnvSetup
 
-# Source-code management
+# Source-code management: github
 conda install gh --channel conda-forge
 
 # Markdown viewer: mdview
