@@ -11,6 +11,6 @@ Conda to setup LinuxEnvSetup
 
 # Markdown viewer: mdview
 
-**[Source]<https://snapcraft.io/install/mdview/rhel#install>**
+**[Source](https://snapcraft.io/install/mdview/rhel#install)**
 
 ***[Commands](https://www.markdownguide.org/basic-syntax/)***
